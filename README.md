@@ -8,7 +8,7 @@ Accelerators for Spatial Computing — Pair programmed through conversations wit
 ## Examples
 | Name | Element Type | Topic | visionOS | Preview |
 |----------|----------|----------|----------|----------|
-| [LLLM](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM) | Window | Local Large Language Model (LLLM): LM Studio Integration | 1.1 Beta 2 | ![output-small](https://github.com/IvanCampos/visionOS-examples/assets/872137/617e4048-664a-453a-a00f-be95ab043552)
+| [LLLM](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM) | Window | Local Large Language Model (LLLM): LM Studio Integration | 1.1 Beta 2 | [![output-small](https://github.com/IvanCampos/visionOS-examples/assets/872137/617e4048-664a-453a-a00f-be95ab043552)](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM)
 
 
 ## Learning Resources
