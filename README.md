@@ -1,14 +1,10 @@
 # visionOS-examples
 Accelerators for Spatial Computing — Pair programmed through conversations with my custom GPT, [visionOS Dev](https://chat.openai.com/g/g-GbfBtRzZo-visionos-dev).
-
-**Element Types:** [Foundational building blocks of spatial computing](https://developer.apple.com/videos/play/wwdc2023/10260/)  
-<img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/e2739033-fd6e-41e8-bc04-e7668d5df51f" width="300" />
-
  
 ## Examples
 | Name | Element Type | Topic | visionOS | Preview |
 |----------|----------|----------|----------|----------|
-| [LLLM](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM) | Window | Local Large Language Model (LLLM): LM Studio Integration | 1.1 beta 2 (2105188c) | [![output-small](https://github.com/IvanCampos/visionOS-examples/assets/872137/617e4048-664a-453a-a00f-be95ab043552)](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM)
+| [LLLM](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM) | <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/2fe161eb-b95e-4733-af9d-d08a7ba1b0b2" width="100" /> | Local Large Language Model (LLLM): LM Studio Integration | 1.1 beta 2 (2105188c) | [![output-small](https://github.com/IvanCampos/visionOS-examples/assets/872137/617e4048-664a-453a-a00f-be95ab043552)](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM)
 
 
 ## Learning Resources
