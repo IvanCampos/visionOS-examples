@@ -1,5 +1,5 @@
 # LLLM
-Local Large Language Model (LLLM): LM Studio Integration for visionOS   
+Local Large Language Model (LLLM): LM Studio integration for visionOS   
 ![GIF](https://github.com/IvanCampos/visionOS-examples/assets/872137/a691758a-4e3a-4b58-9c72-06d9ed655ae8)
 
 ## Requirements
