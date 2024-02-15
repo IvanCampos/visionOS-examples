@@ -5,7 +5,15 @@ Accelerators for Spatial Computing — Pair programmed through conversations wit
 | Name | Element Type | Topic | visionOS | Preview |
 |----------|----------|----------|----------|----------|
 | [LLLM](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM) | <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/2fe161eb-b95e-4733-af9d-d08a7ba1b0b2" width="100" /> | **Local Large Language Model (LLLM):** Call your LM Studio models from your Apple Vision Pro | 1.1 beta 2 (2105188c) | [![output-small](https://github.com/IvanCampos/visionOS-examples/assets/872137/617e4048-664a-453a-a00f-be95ab043552)](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM)
-
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
 ## Learning Resources
 | Link | Description |
