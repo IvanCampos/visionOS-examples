@@ -1,8 +1,7 @@
 # visionOS-examples
 Spatial Computing Samples — Pair programmed through conversations with my custom GPT, [visionOS Dev](https://chat.openai.com/g/g-GbfBtRzZo-visionos-dev).
 
-## Element Types
-Foundational building blocks of spatial computing  
+**Element Types:** [Foundational building blocks of spatial computing](https://developer.apple.com/videos/play/wwdc2023/10260/)  
 <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/e2739033-fd6e-41e8-bc04-e7668d5df51f" width="300" />
 
  
