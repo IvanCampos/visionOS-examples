@@ -6,9 +6,9 @@ Spatial Computing Samples — Pair programmed through conversations with my cust
 
  
 ## Examples
-| Name | Element Type | Topic | Video |
+| Name | Element Type | Topic | visionOS |
 |----------|----------|----------|----------|
-| [LLLM](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM) | Window | Local Large Language Model (LLLM): LM Studio Integration | TBD |
+| [LLLM](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM) | Window | Local Large Language Model (LLLM): LM Studio Integration | 1.1 Beta 2 |
 
 
 ## Learning Resources
