@@ -1,5 +1,5 @@
 # LLLM
-Local Large Language Model (LLLM): Call your LM Studio models from your Apple Vision Pro   
+**Local Large Language Model (LLLM):** Call your LM Studio models from your Apple Vision Pro   
 ![GIF](https://github.com/IvanCampos/visionOS-examples/assets/872137/a691758a-4e3a-4b58-9c72-06d9ed655ae8)
 
 ## Requirements
