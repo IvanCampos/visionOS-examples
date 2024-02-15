@@ -4,9 +4,9 @@ Spatial Computing Samples
 
  
 ## Examples
-| Link | Topic | Video |
-|----------|----------|----------|
-| [LLLM](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM) | Local Large Language Model (LLLM): LM Studio Integration | TBD |
+| Link | Element Type | Topic | Video |
+|----------|----------|----------|----------|
+| [LLLM](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM) | Window | Local Large Language Model (LLLM): LM Studio Integration | TBD |
 
 
 ## Learning Resources
