@@ -2,9 +2,13 @@
 Spatial Computing Samples  
 — Pair programmed through conversations with my custom GPT, [visionOS Dev](https://chat.openai.com/g/g-GbfBtRzZo-visionos-dev).
 
+## Element Types
+Foundational building blocks of spatial computing  
+<img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/e2739033-fd6e-41e8-bc04-e7668d5df51f" width="300" />
+
  
 ## Examples
-| Link | Element Type | Topic | Video |
+| Name | Element Type | Topic | Video |
 |----------|----------|----------|----------|
 | [LLLM](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM) | Window | Local Large Language Model (LLLM): LM Studio Integration | TBD |
 
