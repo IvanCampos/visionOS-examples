@@ -22,9 +22,8 @@ struct APIService {
         
         var domain = "localhost"
         if (isRunningOnSimulator == false) {
-            // ENTER THE IP ADDRESS OF THE MACHINE RUNNING LM STUDIO
             // ifconfig en0 | grep inet | grep -v inet6 | awk '{print $2}'
-            domain = "10.0.0.113"
+            domain = "ENTER THE IP ADDRESS OF THE MACHINE RUNNING LM STUDIO HERE"
         }
         //print(domain)
         
