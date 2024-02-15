@@ -3,7 +3,7 @@ Accelerators for Spatial Computing
 * Pair programmed through conversations with my custom GPT:  
   * [visionOS Dev](https://chat.openai.com/g/g-GbfBtRzZo-visionos-dev) (_*ChatGPT Plus required*_)
  
-## Examples 
+## Examples ![visionpro](https://github.com/IvanCampos/visionOS-examples/assets/872137/07a55a0d-d11e-4c39-a3b0-0a7bf6682808)
 | Name | Element | Topic | visionOS | Preview |
 |----------|----------|----------|----------|----------|
 | [LLLM](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM) | <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/2fe161eb-b95e-4733-af9d-d08a7ba1b0b2" width="100" /> | **Local Large Language Model (LLLM):** Call your LM Studio models from your Apple Vision Pro | 1.1 beta 2 (2105188c) | [![output-small](https://github.com/IvanCampos/visionOS-examples/assets/872137/617e4048-664a-453a-a00f-be95ab043552)](https://github.com/IvanCampos/visionOS-examples/tree/main/LLLM)
