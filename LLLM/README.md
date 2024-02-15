@@ -5,7 +5,8 @@
 ## Requirements
 * Install [LM Studio](https://lmstudio.ai/) on your Apple Silicon (M-Series) Mac
   * Click on Local Server in Left Menu
-    * Load your desired Local Model
+    * Download your model of choice (e.g. TheBloke/*)
+    * Load your desired local Model
     * Click "Start Server" button for Port 1234
 * Xcode 15.2+
 
