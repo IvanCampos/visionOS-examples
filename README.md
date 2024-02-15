@@ -1,5 +1,5 @@
 # visionOS-examples
-Accelerators for Spatial Computing — Pair programmed through conversations with my custom GPT, [visionOS Dev](https://chat.openai.com/g/g-GbfBtRzZo-visionos-dev).
+Accelerators for Spatial Computing — Pair programmed through conversations with my custom GPT, [visionOS Dev](https://chat.openai.com/g/g-GbfBtRzZo-visionos-dev)
  
 ## Examples
 | Name | Element Type | Topic | visionOS | Preview |
