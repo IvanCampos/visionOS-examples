@@ -1,4 +1,4 @@
 # Fear and Greed
 _Volumetric View of the Fear & Greed Index for Bitcoin and other large cryptocurrencies_
 
-![fng](https://github.com/IvanCampos/visionOS-examples/assets/872137/9162ddd7-1ccb-4eae-ae5b-3b880caa10f9)
+https://github.com/IvanCampos/visionOS-examples/assets/872137/edf5753a-c0d0-4d2f-8c5b-11f8f9fb1971
