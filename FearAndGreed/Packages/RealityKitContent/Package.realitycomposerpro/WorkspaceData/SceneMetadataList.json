@@ -1,0 +1,140 @@
+{
+  "0A9B4653-B11E-4D6A-850E-C6FCB621626C" : {
+    "cameraTransform" : [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0.86602545,
+      -0.49999994,
+      0,
+      0,
+      0.49999994,
+      0.86602545,
+      0,
+      -0.0016454058,
+      0.3609597,
+      0.6486591,
+      1
+    ],
+    "objectMetadataList" : [
+      [
+        "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
+        "Root",
+        "Sphere"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "70F99620-18FE-438F-B2D5-5E0DA02AB759" : {
+    "cameraTransform" : [
+      0.99999994,
+      0,
+      -0,
+      0,
+      -0,
+      0.8660254,
+      -0.49999994,
+      0,
+      0,
+      0.49999994,
+      0.8660254,
+      0,
+      0,
+      0.5981957,
+      1.0361054,
+      1
+    ],
+    "objectMetadataList" : [
+      [
+        "70F99620-18FE-438F-B2D5-5E0DA02AB759",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "90C576A0-F90A-43B8-9998-14918A66F863" : {
+    "cameraTransform" : [
+      0.99999994,
+      0,
+      -0,
+      0,
+      -0,
+      0.8660254,
+      -0.49999994,
+      0,
+      0,
+      0.49999994,
+      0.8660254,
+      0,
+      0,
+      0.36125332,
+      0.6257093,
+      1
+    ],
+    "objectMetadataList" : [
+      [
+        "90C576A0-F90A-43B8-9998-14918A66F863",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "90C576A0-F90A-43B8-9998-14918A66F863",
+        "Root",
+        "Sphere"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "388995CA-80FC-432E-BA88-78270E4EFD9D" : {
+    "cameraTransform" : [
+      0.99999994,
+      0,
+      -0,
+      0,
+      -0,
+      0.8660254,
+      -0.49999994,
+      0,
+      0,
+      0.49999994,
+      0.8660254,
+      0,
+      0,
+      0.5981957,
+      1.0361054,
+      1
+    ],
+    "objectMetadataList" : [
+      [
+        "388995CA-80FC-432E-BA88-78270E4EFD9D",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  }
+}
