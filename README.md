@@ -26,6 +26,7 @@ Accelerators for Spatial Computing
 | [visionOS Dev Bot](https://chat.openai.com/g/g-GbfBtRzZo-visionos-dev) | My GPT-4 bot configured with instructions and knowledge specific to visionOS |
 | [Spatial List](https://twitter.com/i/lists/1749207474983354875) | List of Spatialists to follow on 𝕏 |
 | [GitHub Repos](https://github.com/topics/visionos?o=desc&s=updated) | Recently Updated visionOS Projects |
+| [r/visionosdev](https://www.reddit.com/r/visionosdev/) | Where developers for the Apple Vision Pro and VisionOS meet. Talk SwiftUI, ARKit and more. |
 
 ## Assets
 [Sketchfab 3D Models](https://sketchfab.com/search?features=downloadable&licenses=322a749bcfa841b29dff1e8a1bb74b0b&licenses=b9ddc40b93e34cdca1fc152f39b9f375&licenses=72360ff1740d419791934298b8b6d270&licenses=bbfe3f7dbcdd4122b966b85b9786a989&licenses=2628dbe5140a4e9592126c8df566c0b7&licenses=34b725081a6a4184957efaec2cb84ed3&licenses=7c23a1ba438d4306920229c12afcb5f9&licenses=72eb2b1960364637901eacce19283624&sort_by=-likeCount&type=models)
