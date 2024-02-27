@@ -22,9 +22,9 @@ class FearGreedIndexViewModel: ObservableObject {
     }
     
     func fetchData() {
-        self.classification = ""
         service.fetchIndex { [weak self] response in
             DispatchQueue.main.async {
+                self?.classification = ""
                 self?.classification = response?.data.first?.value_classification.uppercased() ?? ""
             }
         }

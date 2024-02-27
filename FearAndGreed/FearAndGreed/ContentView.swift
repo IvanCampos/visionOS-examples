@@ -30,15 +30,18 @@ struct RectangleView: View {
     @Binding var currentClassification: String
     
     var body: some View {
+        
+        var classificationColor = colorForClassification(classification)
+        
         Text(classification)
             .bold()
             .font(.largeTitle)
             .frame(width: 400, height: 100)
-            .background(colorForClassification(classification))
+            .background(classificationColor)
             .cornerRadius(10)
             .padding()
             .scaleEffect(currentClassification == classification ? 1.1 : 1.0)
-            .shadow(color: Color(uiColor: UIColor(hex: ColorName.coolGrey.rawValue)!), radius: 10, x: 0, y: 10)
+            .shadow(color: classificationColor, radius: 12, x: 0, y: 0)
             .animation(.easeInOut(duration: 1).repeatForever(), value: currentClassification == classification)
     }
     
