@@ -93,3 +93,6 @@ iOSInjectionProject/
 **/.DS_Store
 
 **/Secrets.swift
+
+**/*.xcuserstate
+
