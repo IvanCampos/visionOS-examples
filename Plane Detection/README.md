@@ -1,4 +1,4 @@
-**Plane Detection**
+**Plane Detection:** Identifying flat surfaces in the real world
 
 https://github.com/IvanCampos/visionOS-examples/assets/872137/f3b94e19-921e-4fe9-baf2-8b02c8c0468f
 
