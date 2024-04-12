@@ -1,1 +1,2 @@
-Timer Vision: Timer Window for Apple Vision Pro
+**Timer Vision:** Timer Window for Apple Vision Pro
+
