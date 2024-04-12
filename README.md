@@ -15,7 +15,10 @@ Accelerators for Spatial Computing
 | [Battery Life](https://github.com/IvanCampos/visionOS-examples/tree/main/Battery%20Life) | <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/2fe161eb-b95e-4733-af9d-d08a7ba1b0b2" width="100" /> | **Battery Life:** Display the Apple Vision Pro's battery level and status | 1.1 (210211) | ![battery-life](https://github.com/IvanCampos/visionOS-examples/assets/872137/567c6771-9f0c-475b-a494-fdb56ec38ff7) | 
 | [Countdown](https://github.com/IvanCampos/visionOS-examples/tree/main/Countdown) | <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/5b464b9e-d1b5-4b3f-ac82-326e725b2dbe" width="100" /> | **Countdown:** Countdown in Immersive Space | 1.2 (2105555e) | <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/c66a69de-a598-46f8-ba84-b976abaf87d2" width="320" alt="Countdown"> |
 | [Plane Detection](https://github.com/IvanCampos/visionOS-examples/tree/main/Plane%20Detection) | <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/5b464b9e-d1b5-4b3f-ac82-326e725b2dbe" width="100" /> | **Plane Detection:** Identifying flat surfaces in the real world  | 1.2 (2105555e) | <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/9f226053-4843-4823-9aaa-986a9b17bc74" width="320" alt="planeDetection"> |
-|  |  |  |  |  |
+| [Timer Vision](https://github.com/IvanCampos/visionOS-examples/tree/main/Timer%20Vision) | <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/2fe161eb-b95e-4733-af9d-d08a7ba1b0b2" width="100" /> | **Timer Vision:** Timer Window for Apple Vision Pro | 1.2 (2105555e) |  |  
+|  |  |  |  |  |  
+|  |  |  |  |  |  
+|  |  |  |  |  |  
 
 ## Learning Resources
 | Link | Description |
