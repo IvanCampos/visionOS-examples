@@ -38,6 +38,7 @@ Accelerators for Spatial Computing
 | [Building Vacuum Demo for visionOS from scratch](https://www.loom.com/share/c3331721a6ff47b9a66b30e7b59c6afc) | From [@gonchar](https://github.com/gonchar), the best way to learn how to work with: ARKit (head tracking, surroundings with classification), Reality Composer Pro, RealityKit, Work with custom geometry and meshes. Watch at 1.5x speed. | 
 | [GitHub List](https://github.com/stars/IvanCampos/lists/visionos-projects) | List of visionOS projects that I've starred on GitHub | 
 | [Let's visionOS 2024 Conference](https://www.youtube.com/watch?v=cvjAzMFMnvc&list=PLrYMwiyqgR7eFKM0YbOYqkmFIMQ-Opq_J&pp=iAQB) | Playlist of recorded sessions from Let's visionOS 2024 | 
+| [visionOS Pathway](https://developer.apple.com/visionos/pathway/)| Resources you'll need to start building great apps and games | 
 | | | 
 
 ## Assets
