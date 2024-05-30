@@ -39,6 +39,10 @@ Accelerators for Spatial Computing
 | [GitHub List](https://github.com/stars/IvanCampos/lists/visionos-projects) | List of visionOS projects that I've starred on GitHub | 
 | [Let's visionOS 2024 Conference](https://www.youtube.com/watch?v=cvjAzMFMnvc&list=PLrYMwiyqgR7eFKM0YbOYqkmFIMQ-Opq_J&pp=iAQB) | Playlist of recorded sessions from Let's visionOS 2024 | 
 | [visionOS Pathway](https://developer.apple.com/visionos/pathway/)| Resources you'll need to start building great apps and games | 
+| [SGM Examples](https://github.com/ynagatomo/SGMExamples) | From [@ynagatomo](https://github.com/ynagatomo), a collection of Shader Graph Materials | 
+| | | 
+| | | 
+| | | 
 | | | 
 
 ## Assets
