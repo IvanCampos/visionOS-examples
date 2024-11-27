@@ -1,0 +1,35 @@
+{
+  "C6A7F375-BFE9-46E0-9EA6-1A6B150F43FD" : {
+    "objectMetadataList" : [
+      [
+        "C6A7F375-BFE9-46E0-9EA6-1A6B150F43FD",
+        "Root"
+      ],
+      {
+        "disallowsFraming" : false,
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C6A7F375-BFE9-46E0-9EA6-1A6B150F43FD",
+        "Root",
+        "Video_Dock"
+      ],
+      {
+        "disallowsFraming" : false,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "C6A7F375-BFE9-46E0-9EA6-1A6B150F43FD",
+        "Root",
+        "SkyDome"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      }
+    ]
+  }
+}

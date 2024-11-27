@@ -1,0 +1,51 @@
+#usda 1.0
+(
+    defaultPrim = "Root"
+    metersPerUnit = 1
+    upAxis = "Y"
+)
+
+def Xform "Root"
+{
+    reorder nameChildren = ["Sphere_Left", "Sphere_Right", "GridMaterial"]
+    def "SkyDome" (
+        active = true
+        prepend references = @SkyDome.usdz@
+    )
+    {
+        float3 xformOp:scale = (0.01, 0.01, 0.01)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:orient", "xformOp:scale"]
+    }
+
+    def Xform "Video_Dock" (
+        references = None
+    )
+    {
+        double3 xformOp:translate = (0, 0.8, -3)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:orient", "xformOp:scale"]
+
+        def Xform "Player"
+        {
+            double3 xformOp:translate = (0, 0.6, 0)
+            uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:orient", "xformOp:scale"]
+
+            def RealityKitComponent "CustomDockingRegion"
+            {
+                token info:id = "RealityKit.CustomDockingRegion"
+
+                def RealityKitStruct "m_bounds"
+                {
+                    float3 max = (1.2, 0.5, 0)
+                    float3 min = (-1.2, -0.5, -0)
+                }
+            }
+        }
+
+        def "Ground" (
+            prepend references = @Ground/Ground.usda@
+        )
+        {
+        }
+    }
+}
+
