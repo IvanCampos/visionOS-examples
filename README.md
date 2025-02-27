@@ -40,16 +40,19 @@ Accelerators for Spatial Computing
 | [note.com](https://note.com/search?context=note&q=visionOS&sort=new) | Search results for the latest visionOS blog posts from the Japanese creative community. |
 | [Custom Reddit Feed](https://www.reddit.com/user/sopmac21379/m/spatial/) | Multiple visionOS & Vision Pro related subreddits |
 | [zenn.dev](https://zenn.dev/search?q=visionOS&order=latest) | Another search result for the latest visionOS blog posts from the Japanese creative community. |
-| [𝕏 Pro Deck](https://pro.twitter.com/i/decks/1735361668706644280) | Real-time search deck using 𝕏 Pro | 
 | [Building Vacuum Demo for visionOS from scratch](https://www.loom.com/share/c3331721a6ff47b9a66b30e7b59c6afc) | From [@gonchar](https://github.com/gonchar), the best way to learn how to work with: ARKit (head tracking, surroundings with classification), Reality Composer Pro, RealityKit, Work with custom geometry and meshes. Watch at 1.5x speed. | 
 | [GitHub List](https://github.com/stars/IvanCampos/lists/visionos-projects) | List of visionOS projects that I've starred on GitHub | 
 | [Let's visionOS 2024 Conference](https://www.youtube.com/watch?v=cvjAzMFMnvc&list=PLrYMwiyqgR7eFKM0YbOYqkmFIMQ-Opq_J&pp=iAQB) | Playlist of recorded sessions from Let's visionOS 2024 | 
 | [visionOS Pathway](https://developer.apple.com/visionos/pathway/)| Resources you'll need to start building great apps and games | 
 | [SGM Examples](https://github.com/ynagatomo/SGMExamples) | From [@ynagatomo](https://github.com/ynagatomo), a collection of Shader Graph Materials | 
 | [visionOS Developer Group](https://www.linkedin.com/groups/12922559/) | visionOS Developer Group on LinkedIn | 
+| [Step Into Vision](https://stepinto.vision) | Explore, learn, and build Step Into the world of visionOS development with SwiftUI, RealityKit, and ARKit. | 
 | | | 
 | | | 
 | | | 
+
+## AI for XR
+Coming soon...  
 
 ## Assets
 [Sketchfab 3D Models](https://sketchfab.com/search?features=downloadable&licenses=322a749bcfa841b29dff1e8a1bb74b0b&licenses=b9ddc40b93e34cdca1fc152f39b9f375&licenses=72360ff1740d419791934298b8b6d270&licenses=bbfe3f7dbcdd4122b966b85b9786a989&licenses=2628dbe5140a4e9592126c8df566c0b7&licenses=34b725081a6a4184957efaec2cb84ed3&licenses=7c23a1ba438d4306920229c12afcb5f9&licenses=72eb2b1960364637901eacce19283624&sort_by=-likeCount&type=models)  
