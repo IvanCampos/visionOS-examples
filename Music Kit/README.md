@@ -19,3 +19,8 @@ The following steps are <span style="color:red">REQUIRED</span> to use MusicKit:
 
 ***Source**: [developer.apple.com](https://developer.apple.com/help/account/configure-app-services/musickit/)*
 
+
+
+## Video Preview
+https://github.com/user-attachments/assets/b9d1fde4-fe8e-49c0-8f96-d52fdcda59e7
+
