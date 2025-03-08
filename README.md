@@ -19,7 +19,7 @@ Accelerators for Spatial Computing
 | [Pencil](https://github.com/IvanCampos/visionOS-examples/tree/main/Pencil) | <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/2fe161eb-b95e-4733-af9d-d08a7ba1b0b2" width="100" /> | **Pencil:** PencilKit for visionOS | 1.2 (2105580a) | <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/1880104a-66a9-46ed-bc2d-61bedb9ebef3" width="320" alt="timerVision"> |  
 | [bsky 3D](https://github.com/IvanCampos/visionOS-examples/tree/main/bsky%203D) | <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/5b464b9e-d1b5-4b3f-ac82-326e725b2dbe" width="100" /> | **Bluesky 3D:** 3D Visualizer for Bluesky's Jetstream Firehose | 2.2 (22N5794a) | <img src="https://github.com/user-attachments/assets/7332090d-0494-4af2-889c-b32207c0c4f5" width="320" alt="bsky3D"> |  
 | [DualSense](https://github.com/IvanCampos/visionOS-examples/tree/main/DualSense) | <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/2fe161eb-b95e-4733-af9d-d08a7ba1b0b2" width="100" /> | **DualSense:** PS5 DualSense Controller integration for Apple Vision Pro | 2.3 (22N896) | <img src="https://github.com/user-attachments/assets/945e0b75-c746-4baa-943c-c540a10688de" width="320" alt="DualSense"> |  
-|  |  |  |  |  |  
+| [Music Kit](https://github.com/IvanCampos/visionOS-examples/tree/main/Music%20Kit) | <img src="https://github.com/IvanCampos/visionOS-examples/assets/872137/5b464b9e-d1b5-4b3f-ac82-326e725b2dbe" width="100" /> | **Music Kit:** Play Apple Music directly inside your visionOS app using MusicKit. | 2.4(22O5199n) | ![musicKit_15s](https://github.com/user-attachments/assets/db9d5bdd-9187-4304-8f23-67bac9631651) |  
 |  |  |  |  |  |  
 |  |  |  |  |  |  
 |  |  |  |  |  |  
