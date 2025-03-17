@@ -63,6 +63,15 @@ Accelerators for Spatial Computing
 [Blockade Labs](https://skybox.blockadelabs.com)  
 [CGTrader](https://www.cgtrader.com)  
 
+## Reality Composer Pro (RCP) 
+### Shader Graph Materials (SGM)
+[Recreating the Monterey Screensaver Surface Shader in Reality Composer Pro's Shader Graph Nodes](https://www.youtube.com/watch?v=KVyomXuaR7g)  
+[Ice Moon, Ep 3: Bringing the planet to life in our immersive experience for Apple Vision Pro
+](https://www.youtube.com/watch?v=5jrkzhILYwE)  
+[The Book of Shaders](https://thebookofshaders.com/)  
+[mrdeerwhale's Guide to Reality Composer Pro's Shader Graph Nodes](https://rcpguide.com/)  
+[Make a beautiful Bubble Shader for Apple Vision Pro | Reality Composer Pro Shader Graph Tutorial](https://www.youtube.com/watch?v=zk1u4nguamY)  
+
 ## App Store for Apple Vision Pro
 [Apps & Games](https://apps.apple.com/us/vision)  
 [Arcade](https://apps.apple.com/us/vision/arcade)  
